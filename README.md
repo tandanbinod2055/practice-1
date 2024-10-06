@@ -1,5 +1,5 @@
 # practice-1
 
-Author - Binod Tandan
-Learning git
+Author - Binod Tandan <br>
+Learning git <br>
 Data Science
